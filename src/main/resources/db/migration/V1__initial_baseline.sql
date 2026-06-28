@@ -1,0 +1,2 @@
+﻿-- Initial SiteFlow database baseline.
+-- Business tables will be added in later versioned migrations.
